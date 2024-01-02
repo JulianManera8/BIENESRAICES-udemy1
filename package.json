@@ -1,0 +1,19 @@
+{
+  "name": "bienesraices-udemy1",
+  "version": "1.0.0",
+  "description": "Primer proyecto de NODE en udemy, el de bienes raices",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "author": "Julian Manera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
